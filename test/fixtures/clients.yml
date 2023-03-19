@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  annual_income: 
+  health_condition: MyText
+
+two:
+  name: MyString
+  annual_income: 
+  health_condition: MyText
